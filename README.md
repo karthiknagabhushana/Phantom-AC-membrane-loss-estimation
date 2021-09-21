@@ -19,7 +19,8 @@ submit_ref.sh, submit_att.sh, submit_att_top.sh
 AC_process.m - MATLAB code for processing the RF-data and estimating phantom thickness, phantom material sound speed, membrane transmission loss, and phantom AC. 
   <functions> 
   1. snip_array.m - snips the relevant time-domain echoes from the RF-data. 
-  2. spect_atten.m, zfft.m - compute echo spectrum. 
+  2. spect_atten.m, zfft.m - compute echo spectrum.
+  3. speedinwater.m - calculates the water sound speed based on water temperature. This can be used while processing experimental data. 
 
   
 

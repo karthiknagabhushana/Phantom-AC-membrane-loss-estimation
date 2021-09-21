@@ -9,9 +9,9 @@ The papers aims to simulataneously measure the reference phantom AC and membrane
 The code includes two components - 1) k-Wave simulation of a use-case (phantom, membrane and transducer), 2) Code to process the RF-data from simulations and estimate the phantom material AC and membrane transmission coefficient. This code can also be repurposed to process the experimental RF-data. 
 
 k-Wave MATLAB codes (for 10MHz, F4 transducer) to generate the input HDF5 files for CPU based k-wave execution. Modify the transducer, phantom and membrane properties to change the 
-Txdc_10M_F4_3D_ref.m - simulates Setup1 from Paper1.
-Txdc_10M_F4_3D_att.m - simulates Setup2 from Paper1.
-Txdc_10M_F4_3D_att_top.m - simulates Setup3 from Paper1.
+1. Txdc_10M_F4_3D_ref.m - simulates Setup1 from Paper1.
+2. Txdc_10M_F4_3D_att.m - simulates Setup2 from Paper1.
+3. Txdc_10M_F4_3D_att_top.m - simulates Setup3 from Paper1.
 
 Batch scripts for CPU based k-wave execution
 submit_ref.sh, submit_att.sh, submit_att_top.sh

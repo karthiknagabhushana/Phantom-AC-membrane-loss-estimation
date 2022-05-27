@@ -2,7 +2,7 @@
 
 This code is based on the following papers -  
 1) K. Nagabhushana, W. D. O'Brien and A. Han, "Technique to compensate for unknown laminate transmission loss in phantom attenuation measurements," 2020 IEEE International Ultrasonics Symposium (IUS), 2020, pp. 1-4, doi: 10.1109/IUS46767.2020.9251582.
-2) K. Nagabhushana, Q. Wang, W. D. O'Brien and A. Han, , "Pulse-echo Technique to Compensate Laminate Membrane Transmission Loss in Phantom Attenuation Measurements" (under preparation)
+2) K. Nagabhushana, Q. Wang and A. Han, "Pulse-Echo Technique to Compensate for Laminate Membrane Transmission Loss in Phantom-Based Ultrasonic Attenuation Coefficient Measurements," Journal of Ultrasound in Medicine, 2022, https://doi.org/10.1002/jum.16005. 
 
 The papers aims to simulataneously measure the reference phantom AC and membrane loss using a pulse-echo technique. 
 
